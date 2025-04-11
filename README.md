@@ -1,6 +1,6 @@
 # Pokemon App
 
-This is a simple web application that displays Pokemon information.
+This is a simple web application that displays Pokemon information. Built for module 3 homeowrk in the Code Temple FullStack Developer Course.
 
 ## Features
 
@@ -16,7 +16,7 @@ This is a simple web application that displays Pokemon information.
 ## Setup
 
 1.  Clone the repository.
-2.  Open `homework.html` in your web browser.
+2.  Open `index.html` in your web browser.
 
 ## Usage
 
